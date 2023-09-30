@@ -10,7 +10,7 @@ API em Node.js com acesso a banco de dados.
 
 ## ✒️ Autor
 
-* **Beto Licks** - (https://github.com/BetoLicks/)
+* **Beto Licks** - (https://www.linkedin.com/in/betolicks/)
 
 ## 📄 Licença
 
